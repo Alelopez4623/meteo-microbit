@@ -3,19 +3,19 @@ Este es un proyecto creado por un alumno del IES Lola Flores para digitalizar la
 ## Objetivos
 El obetivo de este proyecto es poder automatizar los principales datos que se puedan recoger automáticamente con las tarjetas programables micro:bit V2.
 ## Proceso
-[ ] Emisor
+### Emisor
  -  [x] Emitir temperatura
  -  [ ] Comprobación de salud -- En proceso
  -  [ ] Emitir otras variables 
  -  [ ] Optimización del código (PASO FINAL)
 
 
-[ ] Receptor
+### Receptor
  -  [ ] Recibir temperatura
  -  [ ] Emitir mediante serial datos al ordenador -- En proceso
 
 
-[ ] Ordenenador
+### Ordenenador
  -  [ ] Recibir datos del micro:bit receptor
  -  [ ] Procesar datos recibidos
  -  [ ] Importar datos a hojas de cálculo
