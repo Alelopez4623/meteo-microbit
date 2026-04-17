@@ -8,11 +8,13 @@ El obetivo de este proyecto es poder automatizar los principales datos que se pu
  -  [ ] Comprobación de salud -- En proceso
  -  [ ] Emitir otras variables 
  -  [ ] Optimización del código (PASO FINAL)
-<br>
+
+
 [ ] Receptor
  -  [ ] Recibir temperatura
  -  [ ] Emitir mediante serial datos al ordenador -- En proceso
-<br>
+
+
 [ ] Ordenenador
  -  [ ] Recibir datos del micro:bit receptor
  -  [ ] Procesar datos recibidos
