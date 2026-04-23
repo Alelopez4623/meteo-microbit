@@ -1,0 +1,1 @@
+### Este apartado lo uso para la configuración del ordenador (raspberry pi) con Debian linux Trixie. 
