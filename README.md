@@ -16,7 +16,7 @@ El obetivo de este proyecto es poder automatizar los principales datos que se pu
 ### Receptor
  -  [x] Recibir temperatura 
 
-~~ -  [ ] Comprobación de salud~~ No es necesaria
+ -  [ ] ~~Comprobación de salud~~ No es necesaria
 
  -  [x] Emitir mediante serial datos al ordenador
 
