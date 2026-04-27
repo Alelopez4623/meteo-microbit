@@ -1,9 +1,3 @@
-[submodule "meteo-microbit-receptor"]
-	path = meteo-microbit-receptor
-	url = https://github.com/Alelopez4623/meteo-microbit-receptor
-[submodule "meteo-microbit-emisor"]
-	path = meteo-microbit-emisor
-	url = https://github.com/Alelopez4623/meteo-microbit-emisor
 [submodule "receptor"]
 	path = meteo-microbit-receiver
 	url = https://github.com/Alelopez4623/meteo-microbit-receiver
