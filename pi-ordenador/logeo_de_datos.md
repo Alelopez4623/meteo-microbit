@@ -9,4 +9,4 @@ Deberia quedar algo así
 
 
  ![directory image](https://github.com/Alelopez4623/meteo-microbit/blob/c320758fd1a8752f0f3d52007c3ef7ebd814f307/pi-ordenador/dir.png)
- ![file image](https://github.com/Alelopez4623/meteo-microbit/blob/c320758fd1a8752f0f3d52007c3ef7ebd814f307/pi-ordenador/dir.png)
+ ![file image](https://github.com/Alelopez4623/meteo-microbit/blob/995f52a27024c9b75277b002d275c634a998d94c/pi-ordenador/item.png)
