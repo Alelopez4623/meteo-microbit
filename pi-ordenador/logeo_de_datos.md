@@ -3,5 +3,7 @@ Para loguear los datos de temperatura, uso la app de
 
 
 ## Inicio automatico de la terminal con minicom
+He creado un directorio de archivos en /home/usuario/.config/autostart llamado minicom.desktop.
 
-Usé este tutorial para añadir el comnado '' para que se inicie la terminal y se vea como se logean los datos.
+Deberia quedar algo así
+!dir.png

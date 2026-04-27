@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=minicom.desktop
+Comment=
+Exec= lxterminal -e bash /home/usuario/bootminicomsaddds.sh
+Hidden=false
+terminal=true
